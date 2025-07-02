@@ -1,0 +1,25 @@
+.SearchBox{
+    text-align:center;
+    margin-bottom:2rem;
+}
+
+.cityInput {
+  width: 100%;
+  max-width: 300px;
+  margin-bottom: 1rem;
+}
+
+.searchButton {
+  background-color: #1976d2;
+  color: white;
+  font-weight: bold;
+}
+
+.searchButton:hover {
+  background-color: #115293;
+}
+
+.errorMessage {
+  color: red;
+  margin-top: 1rem;
+}
